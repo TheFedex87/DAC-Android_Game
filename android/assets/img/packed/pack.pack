@@ -1,0 +1,47 @@
+
+pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+moon
+  rotate: false
+  xy: 1, 274
+  size: 583, 586
+  orig: 583, 586
+  offset: 0, 0
+  index: -1
+palaces
+  rotate: false
+  xy: 586, 379
+  size: 594, 481
+  orig: 594, 481
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 1, 1
+  size: 500, 271
+  orig: 500, 271
+  offset: 0, 0
+  index: -1
+cloud2
+  rotate: false
+  xy: 1182, 626
+  size: 511, 234
+  orig: 511, 234
+  offset: 0, 0
+  index: -1
+bubble2
+  rotate: false
+  xy: 1182, 445
+  size: 181, 179
+  orig: 181, 179
+  offset: 0, 0
+  index: -1
+plane
+  rotate: false
+  xy: 586, 301
+  size: 165, 76
+  orig: 165, 76
+  offset: 0, 0
+  index: -1
